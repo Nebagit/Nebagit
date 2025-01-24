@@ -1,41 +1,37 @@
-👋 Hi :), I'm Nebiyu Tefera!
-I'm a Full Stack Software Developer and Computer Science graduate with a passion for building innovative web solutions. Currently based in Addis Ababa, Ethiopia, I specialize in MERN stack development and have experience with modern technologies such as React, Node, Next, Express, Javascripts, Tailwind css, bootstarp, and custom css.
+# 👋 Hi :), I'm Nebiyu Tefera!
 
-🚀 Professional Summary
-🎓 Computer Science Graduate from Addis Ababa University ( with "Great Distinction" )
-🌟 Certified MERN Stack Developer from Evangadi Networks
+I'm a **Software Engineer** and a **Full Stack Developer** with a deep passion for web development and software solutions. I specialize in MERN stack development and have experience with modern technologies such as JavaScript, ReactJS, NodeJS, ExpressJS, NextJS, Tailwind CSS, Custom CSS.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nebiyu-tefera-aau/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nebagit)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nebagit.github.io/nebiyu-tefera/)
 
-💻 Full Stack Developer with experience at Guba Technology and Perago Information Systems
-👨‍🏫 Software Trainer at KoderLab Training Centers
+## 🚀 What I'm Currently Doing
+- **ERPNext**: Building and customizing business solutions
+- **Cloud Architecture**: Designing scalable cloud infrastructures
+- **Clean Architecture**: Crafting maintainable and scalable software systems
+- **Data Structures & Algorithms**: Enhancing problem-solving skills
+- **Testing**: Implementing comprehensive test coverage
 
-🛠️ Tech Stack
-Languages & Frameworks:
-JavaScript | ReactJS | NodeJS | ExpressJS 
-Python | Java | C++
-Flutter for Mobile Development
-HTML/CSS | TypeScript
-Tools & Platforms:
-Git & GitHub
-Firebase
-MySQL | MongoDB | PostgreSQL
-Linux (Ubuntu) | Windows | MacOS
-Visual Studio Code | IntelliJ IDEA | Eclipse
+## 💻 Tech Stack
 
-🔍 Featured Projects
+### 🔥 High Experience
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-EDUGUBEIT (Education Platform):
-Educational management platform with web and mobile interfaces
-Built using React, Node.js, Firebase, and Flutter
-Features include grade management, attendance tracking, and parent-teacher communication
+### 📚 Currently Learning & Improving
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-AGI and ASI Research:
-Technical research on Artificial General Intelligence and Artificial Super Intelligence
-Focus on implications of humanoid robots and biotechnology
-Analysis of ethical and societal impacts
+## 📜 Certifications
+![Evangadi INC (Full Stack Developer; MERN)](https://www.evangadi.com/files/certificates/student/NebiyuTefera05_09_2024_0844/NebiyuTefera.jpg)
 
-📫 Get in Touch
-Email: neba.t.git@gmail.com
-Location: King George VI St(4Kilo), Addis Ababa, Ethiopia
-Phone: +251923536007
-"Building digital solutions that make a difference"
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Nebagit&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nebagit&layout=compact&theme=radical)
